@@ -1,15 +1,31 @@
-# Project 14 - Shopify Clone
+# Hi, I'm Pradip! 👋
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+## 🚀 About Me
 
-![HTML & Tailwind](https://img.shields.io/badge/HTML-Tailwind-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--14-lightgrey)
+I'm a full stack Javascript Developer...
 
-![name](https://img.shields.io/badge/Pradip--Kafle-lightgrey)
+## 🔗 Links
 
-## Project 17 [Live Link](https://live-proj-14.netlify.app)
+[![LiveDemo](https://img.shields.io/badge/Live_demo-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shopify-clonee-tailwind.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradipkafle/)
+[![Hashnode](https://img.shields.io/badge/hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white)](https://iampradip.hashnode.dev/)
 
-#### Screenshot
+## Shopify Clone Using Tailwind Css
 
-![Desktop](./demo/desktopdemo.jpeg)
+✅ This is the [Rode](https://rode.com/en) website clone.
+
+Key Features:
+
+- Build using HTML and Tailwind css
+- Desktop aswell as mobile responsive design
+- Took around 8hr to complete this projct
+
+## 👨🏻‍💻 Build using:
+
+![HTML & CSS](https://img.shields.io/badge/HTML-TailwindCSS-orange)
+
+## Screenshots
+
+---
+
+![Desktopdemo](./demo/desktopdemo.jpeg)
